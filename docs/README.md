@@ -11,3 +11,7 @@
 ## Multiplication table
 
 ![](mult.png)
+
+## Prime
+
+![](image.png)
